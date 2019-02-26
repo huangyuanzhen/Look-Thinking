@@ -11,7 +11,7 @@
 
 ## 目录
 
-- [ 基金定投止盈策略 ](https://github.com/huangyuanzhen/myWriting/edit/master/%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%AD%A2%E7%9B%88%E7%AD%96%E7%95%A5.md)  --2019/2/26
+- [ 基金定投止盈策略 ](https://github.com/huangyuanzhen/myWriting/edit/master/%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%AD%A2%E7%9B%88%E7%AD%96%E7%95%A5.md)  --2019/2/21
 - [《小狗钱钱》读后感](https://github.com/huangyuanzhen/myWriting/blob/master/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.md) --2019/1/10
 
 
