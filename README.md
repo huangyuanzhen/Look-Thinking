@@ -11,3 +11,7 @@
 - [小狗钱钱](https://github.com/huangyuanzhen/myWriting/blob/master/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.md) --2019/1/10
 - [金融理财书单](https://github.com/huangyuanzhen/looking-thinking/blob/master/%E9%87%91%E8%9E%8D%E6%8A%95%E8%B5%84%E4%B9%A6%E5%8D%95.md)--2020/01/04
 
+
+### 社科人文
+
+- [追风筝的人](https://github.com/huangyuanzhen/looking-thinking/blob/master/%E7%A4%BE%E7%A7%91%E4%BA%BA%E6%96%87/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA.md) --2019-05/05
