@@ -8,7 +8,7 @@
 
 - [金融理财书单](https://github.com/huangyuanzhen/looking-thinking/blob/master/%E9%87%91%E8%9E%8D%E6%8A%95%E8%B5%84%E4%B9%A6%E5%8D%95.md)--2020/01/04
 - [财务自由之路](https://github.com/huangyuanzhen/SeeingNow/blob/master/Finance/%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1%E4%B9%8B%E8%B7%AF.md)-- 2019/3/26
-- [ 基金定投止盈策略 ](https://github.com/huangyuanzhen/Look-Thinking/blob/master/%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%AD%A2%E7%9B%88%E7%AD%96%E7%95%A5.md)  --2019/2/21
+- [ 基金定投止盈策略 ](https://github.com/huangyuanzhen/SeeingNow/blob/master/Finance/%E5%9F%BA%E9%87%91%E5%AE%9A%E6%8A%95%E6%AD%A2%E7%9B%88%E7%AD%96%E7%95%A5.md)  --2019/2/21
 - [小狗钱钱](https://github.com/huangyuanzhen/SeeingNow/blob/master/Finance/%E5%B0%8F%E7%8B%97%E9%92%B1%E9%92%B1.md) --2019/1/10
 
 
