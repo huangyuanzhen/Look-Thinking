@@ -16,3 +16,4 @@
 
 - [怦然心动的人生整理魔法](https://github.com/huangyuanzhen/looking-thinking/blob/master/SeeingNow/blob/master/social/怦然心动的人生整理魔法.md) - 2019/06/06
 - [追风筝的人](https://github.com/huangyuanzhen/looking-thinking/blob/master/SeeingNow/blob/master/social/追风筝的人.md) --2019-05/05
+- [亲密关系](https://github.com/huangyuanzhen/SeeingNow/blob/master/social/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md)
