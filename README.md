@@ -14,5 +14,5 @@
 
 ### 社科人文
 
-- [怦然心动的人生整理魔法](https://github.com/huangyuanzhen/looking-thinking/blob/master/%E7%A4%BE%E7%A7%91%E4%BA%BA%E6%96%87/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95.md) - 2019/06/06
-- [追风筝的人](https://github.com/huangyuanzhen/looking-thinking/blob/master/%E7%A4%BE%E7%A7%91%E4%BA%BA%E6%96%87/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA.md) --2019-05/05
+- [怦然心动的人生整理魔法](https://github.com/huangyuanzhen/looking-thinking/blob/master/SeeingNow/blob/master/social/怦然心动的人生整理魔法.md) - 2019/06/06
+- [追风筝的人](https://github.com/huangyuanzhen/looking-thinking/blob/master/SeeingNow/blob/master/social/追风筝的人.md) --2019-05/05
