@@ -14,6 +14,6 @@
 
 ### 社科人文
 
+- [亲密关系](https://github.com/huangyuanzhen/SeeingNow/blob/master/social/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md) --2021/1/23
 - [怦然心动的人生整理魔法](https://github.com/huangyuanzhen/SeeingNow/blob/master/social/%E6%80%A6%E7%84%B6%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E6%95%B4%E7%90%86%E9%AD%94%E6%B3%95.md) - 2019/06/06
 - [追风筝的人](https://github.com/huangyuanzhen/SeeingNow/blob/master/social/%E8%BF%BD%E9%A3%8E%E7%AD%9D%E7%9A%84%E4%BA%BA.md) --2019-05/05
-- [亲密关系](https://github.com/huangyuanzhen/SeeingNow/blob/master/social/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md) --2021/1/23
